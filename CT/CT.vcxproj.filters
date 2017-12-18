@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\DXUT">
+      <UniqueIdentifier>{85abc0e5-dc50-4d5e-9fed-a6e0f2808725}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Utils">
+      <UniqueIdentifier>{a1248ad4-7670-474a-b9fd-439a9d2dc1aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ZMorpher">
+      <UniqueIdentifier>{d7c9150c-7f29-4aeb-8300-1412cca2e18d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\PhysX">
+      <UniqueIdentifier>{e214c8a5-4e05-42d7-b858-412d21c2af02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일\DXUT">
+      <UniqueIdentifier>{fb5a72a5-7e89-42f4-8357-a7201ff22dc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Utils">
+      <UniqueIdentifier>{b31b618b-f1e0-4764-b981-4886cd60edc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\ZMorpher">
+      <UniqueIdentifier>{8235e27a-cd9d-483f-bd4b-43eac1d2e3f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\PhysX">
+      <UniqueIdentifier>{b497f8b5-9db8-4369-a258-600f359aed54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CT.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_AnimInfo.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_Camera.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_CustomUI.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_Globals.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_Main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_MeshSelectDialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_Object.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_PhysX.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_RenderManager.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CT_Selection.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CTDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CTView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUT.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUTenum.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUTgui.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUTMesh.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUTmisc.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUTRes.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUTSettingsDlg.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\DXUTsound.cpp">
+      <Filter>소스 파일\DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\CommonUtils.cpp">
+      <Filter>소스 파일\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\D3DEx.cpp">
+      <Filter>소스 파일\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\ShellContextMenu.cpp">
+      <Filter>소스 파일\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZEdge.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZFace.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZMaterial.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZMesh.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZMorpher.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZObject.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZVector.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMorpher\ZVert.cpp">
+      <Filter>소스 파일\ZMorpher</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\Stream.cpp">
+      <Filter>소스 파일\PhysX</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CT.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_AnimInfo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_AnimInfo.hpp">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_Camera.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_CustomUI.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_Enums.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_Globals.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_i.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_Main.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_MeshSelectDialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_Object.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_PhysX.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_RenderManager.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_Selection.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CT_Settings.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CTDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CTView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUT.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUTenum.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUTgui.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUTMesh.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUTmisc.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUTRes.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUTSettingsDlg.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\DXUTsound.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\SamplesVRDSettings.h">
+      <Filter>헤더 파일\DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\CommonUtils.h">
+      <Filter>헤더 파일\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\D3DEx.h">
+      <Filter>헤더 파일\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\ShellContextMenu.h">
+      <Filter>헤더 파일\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZDebug.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZEdge.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZFace.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZMaterial.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZMesh.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZMorpher.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZObject.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZPublic.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZType.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZVector.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMorpher\ZVert.h">
+      <Filter>헤더 파일\ZMorpher</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\ErrorStream.h">
+      <Filter>헤더 파일\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Stream.h">
+      <Filter>헤더 파일\PhysX</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Utilities.h">
+      <Filter>헤더 파일\PhysX</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\CT.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\res\CT.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\CTDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\res\CTDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CT.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\CT.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

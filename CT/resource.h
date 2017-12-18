@@ -1,0 +1,119 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by CT.rc
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDD_CUBETOP_DIALOG              102
+#define IDD_TAB                         103
+#define IDR_CUBETOP                     104
+#define IDD_MESHSELECTDIALOG            105
+#define IDR_MAINFRAME                   128
+#define IDR_CTTYPE                      129
+#define IDR_MENU_CUBE                   130
+#define IDR_MENU_SELECTION              132
+#define IDR_MENU1                       133
+#define IDR_MENU_PILE                   133
+#define IDR_MENU2                       134
+#define IDR_MENU_MAIN                   134
+#define IDR_MENU_BASIC                  134
+#define IDC_TAB                         1009
+#define IDC_LIST1                       1010
+#define IDC_LIST                        1010
+#define IDC_LISTBOX                     1010
+#define IDC_BUTTON1                     1014
+#define IDC_BUTTON2                     1015
+#define IDC_TAB1                        1016
+#define ID_234_341                      32771
+#define ID_32771                        32771
+#define ID_234_324                      32772
+#define IDC_CHANGE_BASIC                32772
+#define ID_234_134                      32773
+#define IDC_CHANGE_BASICMODEL           32773
+#define ID_234_32414                    32774
+#define IDC_CHANGE_CLIPARTMODEL         32774
+#define ID_234_325                      32775
+#define IDC_CHANGE_CUSTOMMODEL          32775
+#define ID_234_1                        32776
+#define IDC_CHANGE_IMAGEBASEDMODEL      32776
+#define ID_234_2                        32777
+#define IDC_TRANSFORM_EDITMESH          32777
+#define ID_341_124                      32778
+#define ID_32778                        32778
+#define ID_341_32                       32779
+#define ID_32779                        32779
+#define ID_341_34                       32780
+#define IDC_TRANSFORM_QUICK_SUBSURF     32780
+#define ID_341_125                      32781
+#define IDC_SELECTION_PILING_BYTYPE     32781
+#define ID_341_43                       32782
+#define ID_32782                        32782
+#define ID_341_4                        32783
+#define IDC_TRANSFORM_QUICK_TEST        32783
+#define ID_MENU_32784                   32784
+#define ID_32784                        32784
+#define ID_32785                        32785
+#define ID_CUBE_32785                   32785
+#define ID_32786                        32786
+#define ID_32791                        32786
+#define ID_32787                        32787
+#define ID_32792                        32787
+#define ID_32788                        32788
+#define IDC_TRANSFORM_QUICK_TEST2       32788
+#define ID_32789                        32789
+#define ID_32793                        32789
+#define ID_32790                        32790
+#define ID_TRANSFORM_SETBACK            32790
+#define IDC_CHANGE_CHIP                 32791
+#define ID_CUBE_32791                   32791
+#define IDC_CHANGE_CUBE                 32792
+#define IDC_FREEZE                      32792
+#define IDC_CHANGE_PRIMITIVE            32793
+#define ID_32794                        32793
+#define IDC_CHANGE_CUSTOM               32794
+#define ID_32795                        32794
+#define IDC_CHANGE_IMAGEBASED           32795
+#define ID_MENU_BASIC_FREEZE            32795
+#define ID_32796                        32796
+#define ID_MENU_BASIC_UNFREEZE          32796
+#define ID_32797                        32797
+#define ID_CUBE_32797                   32797
+#define IDC_TRANSFORM_LATTICE           32798
+#define ID_MENU_BASIC_BILLBOARD         32798
+#define ID_32799                        32799
+#define ID_32802                        32799
+#define ID_32800                        32800
+#define ID_32808                        32800
+#define ID_32801                        32801
+#define IDC_MORPH_DIVIDE                32801
+#define IDC_TRANSFORM_END               32802
+#define IDC_MORPH_CUT                   32802
+#define ID_32803                        32803
+#define ID_32809                        32803
+#define ID_32804                        32804
+#define IDC_MORPH_EMBED                 32804
+#define ID_32805                        32805
+#define ID_SELECTION                    32805
+#define ID_32806                        32806
+#define ID_SELECTION_32806              32806
+#define ID_32807                        32807
+#define IDC_CM_SELECTION_BILLBOARD      32807
+#define IDC_SELECTION_PILING_NORMAL     32808
+#define IDC_VIEW_BILLBOARD              32808
+#define IDC_SELECTION_PILING_TYPE       32809
+#define ID_PILE_32810                   32810
+#define ID_PILE_POPCHIP                 32811
+#define IDC_PILE_POPCHIP                32812
+#define ID_PILE_32813                   32813
+#define IDC_PILE_BREAKPILE              32814
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        130
+#define _APS_NEXT_COMMAND_VALUE         32809
+#define _APS_NEXT_CONTROL_VALUE         1000
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
